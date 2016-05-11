@@ -6,6 +6,8 @@ import android.os.Bundle;
 /**
  * Created by viy on 09.03.16.
  */
+
+// simple test commit
 public class AboutActivity extends Activity {
 
     @Override
